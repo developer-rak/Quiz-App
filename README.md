@@ -1,8 +1,23 @@
-## Quiz-App
-<img src="img.png" />
+# :closed_book: Quiz App
 
-### 🤖 *Tech Used*
+### _Quiz web using js !!_
 
-#### HTML5
-#### CSS3
-#### JS
+### Link :link: https://rak-quiz.netlify.app/
+
+## Interface
+<img src="img.jpg" />
+
+## Run Locally
+
+  - Run This command `https://github.com/developer-rak/Quiz-App.git`
+  - You are now in the dev environment and you can play around
+
+## ✨ Features
+
+  - Select any type of answer it will be show right or wrong answer
+
+## ⚙️ Tech Stack
+  - HTML5
+  - CSS
+  - JavaScript
+  - Netlify
